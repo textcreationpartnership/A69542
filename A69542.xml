@@ -1,0 +1,415 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two sheets for poor families ... by Richard Baxter.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69542</idno>
+            <idno type="STC">Wing B1441</idno>
+            <idno type="STC">Wing B1403</idno>
+            <idno type="STC">ESTC R6530</idno>
+            <idno type="EEBO-CITATION">12323164</idno>
+            <idno type="OCLC">ocm 12323164</idno>
+            <idno type="VID">59499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 269:6, 201:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two sheets for poor families ... by Richard Baxter.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>2 pts.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert White for Francis Tyton ... and for Nevill Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pt. 1 has subtitle: The first, instructions to the ungodly for their conversion; pt. 2 has special t.p. with title: Instructions for a holy life.</note>
+                  <note>Copy at reel 201:18 (B1441) is complete work; copy at reel 269:6 (B1403) is pt. 2 only.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59499:1"/>
+            <p>The Second SHEET FOR Poor Families.</p>
+            <p>INSTRUCTIONS FOR A HOLY LIFE.</p>
+            <p>By <hi>Richard Baxter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert White,</hi> for <hi>Francis Tyton,</hi> at the three Daggers in <hi>Fleet-ſtreet:</hi> and for <hi>Nevill Simmons,</hi> Book-ſeller in <hi>Kederminſter.</hi> 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59499:2"/>
+            <pb n="1" facs="tcp:59499:2"/>
+            <head>The Second Sheet for Poor Familes: INSTRUCTIONS FOR A Holy Life.</head>
+            <p>
+               <seg rend="decorInit">A</seg>LL is not done when men have <hi>begun</hi> a Religious life: All Trees that <hi>bloſſome</hi> prove not <hi>fruitfull:</hi>
+               <note place="margin">
+                  <hi>Coloſ.</hi> 1.23. <hi>Hebrews</hi> 4.1. 2 <hi>Pet.</hi> 2.20. 1 <hi>Cor.</hi> 3. <hi>Gal.</hi> 3. <hi>&amp;</hi> 4. <hi>Matthew</hi> 13.41. <hi>&amp;</hi> 18.7.</note> and all <hi>fruit</hi> comes not to <hi>perfe<g ref="char:EOLhyphen"/>ction.</hi> Many fall off, who ſeemed to have good beginnings: And many diſhonour the Name of Chriſt, by their ſcandals and in<g ref="char:EOLhyphen"/>firmities: Many do grieve their Teachers hearts, and lamentably diſturb the Church of Chriſt, by their ignorance, errors, ſelf-conceitedneſs, unruli<g ref="char:EOLhyphen"/>neſs, headineſs, contentiouſneſs, ſidings and diviſi<g ref="char:EOLhyphen"/>ons:
+<pb n="2" facs="tcp:59499:3"/>In ſo much that the <hi>ſcandals</hi> and the <hi>fewds</hi> of Chriſtians, are the great impediment of the Con<g ref="char:EOLhyphen"/>verſion of the <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fidel</hi> and <hi>Heathea</hi> world,<note place="margin">
+                  <hi>Phil.</hi> 3.21. <hi>Acts</hi> 20.30.</note> by expoſing Chriſtianity to their contempt and ſcorn, as if it were but the error of men as unholy and worldly and proud as others, that can never agree among themſelves: And many by their paſſions and ſelfiſhneſs are a trouble to the Families and Neighbours where they live: And <hi>more</hi> by their weakneſſes and great di<g ref="char:EOLhyphen"/>ſtempers, are ſnares, vexations and burdens to them<g ref="char:EOLhyphen"/>ſelves. Whereas <hi>Chriſtianity</hi> in its <hi>true conſtitution,</hi> is a life of ſuch <hi>Holy Light and Love,</hi>
+               <note place="margin">
+                  <hi>Matth.</hi> 5.16. 1 <hi>Pet.</hi> 3 1. 1 <hi>Pet.</hi> 2.15. <hi>&amp;</hi> 1.8. 2 <hi>Cor.</hi> 1.12.</note> ſuch <hi>Purity and Peace,</hi> ſuch <hi>fruitfulneſs</hi> and <hi>Heavenlyneſs,</hi> as if it were accordingly ſhewed forth in the lives of Chri<g ref="char:EOLhyphen"/>ſtians, would command admiration and reverence from the world, and do more to their converſion, than <hi>ſwords,</hi> or <hi>words alone</hi> can do: And it would make Chriſtians <hi>uſefull</hi> and <hi>amiable</hi> to each other; and their l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves a feaſt and pleaſure to themſelves. I hope it may prove ſome help to theſe excellent ends, and to the ſecuring mens ſalvation, if in a few ſound experienced Directions, I open to you the <hi>Duties</hi> of a Chriſtian life.</p>
+            <p n="1">I. <hi>Keep ſtill the true form of Chriſtian Doctrine, De<g ref="char:EOLhyphen"/>ſire and Duty orderly printed on your m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds:</hi>
+               <note place="margin">2 <hi>Tim.</hi> 1.13. <hi>&amp;</hi> 3.7. <hi>Heb.</hi> 5.12. <hi>Phil.</hi> 1.9. <hi>Rom.</hi> 15.14.</note> that is, <hi>Underſtand</hi> it clearly and diſtinctly, and <hi>remember</hi> it. I mean the great points of Relig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on contained in Catechiſmes: you may ſtill <hi>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow</hi> in the clearer un<g ref="char:EOLhyphen"/>derſtanding of your Catech<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſmes, if you live an h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndred years: Let not the <hi>words only</hi> but the <hi>mat<g ref="char:EOLhyphen"/>ter,</hi> be as familiar in your minds, as the rooms of your houſe are. Such <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olid knowledge</hi> will eſtabliſh you againſt <hi>ſeduction</hi> and <hi>unbelief,</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 4.13, 14. <hi>Coloſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1.9. <hi>&amp;</hi> 2.3. <hi>&amp;</hi> 3.10. 1 <hi>Tim.</hi> 6.4.</note> and will be ſtill within you a ready help for every <hi>Gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> and every <hi>duty,</hi> as the skill of an Artificer is for his work: And for want of this, when you come among <hi>Infidels</hi> or <hi>Hereticks,</hi> their reaſonings may ſeem unanſwerable to you, and ſhake, if not over<g ref="char:EOLhyphen"/>th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow your ſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th: And you will eaſily erre in <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſer po<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> and trouble the Church with your dreams and wranglings. This is the calamity of many Profeſſors;
+<pb n="3" facs="tcp:59499:3"/>that while they will be moſt cenſorious Judges, in every controverſie about Church-matters, they know not well the Doctrine of the Catech<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſm.</p>
+            <p n="2">II. <hi>Live day'y by faith on Jeſus Chriſt, as the Me<g ref="char:EOLhyphen"/>diator between God and you:</hi>
+               <note place="margin">
+                  <hi>Iohn</hi> 17.3. <hi>Epheſ.</hi> 3.17, 18. <hi>Matth.</hi> 28.19. <hi>Eph.</hi> 1.22, 23. <hi>&amp;</hi> 4.6.16. <hi>Romans</hi> 5. 2 <hi>Cor.</hi> 12.9. <hi>Iohn</hi> 16.33. 1 <hi>Iohn</hi> 5.4. <hi>Heb.</hi> 4 14.16. <hi>Col.</hi> 3 3, 4. <hi>Acts</hi> 7.59.</note> Being well grounded in the <hi>Belief</hi> of the Goſpel, and underſtanding <hi>Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſts Office: make uſe of him ſtill in all your wants.</hi> Think on the <hi>Fatherly Love of God</hi> as coming to you <hi>through him</hi> alone: and of the <hi>Spirit</hi> as given <hi>by Him your Head;</hi> and of the <hi>Covenant of Grace</hi> as <hi>enacted</hi> and <hi>ſealed by him;</hi> and of the <hi>Miniſtery</hi> as <hi>ſent</hi> by him; and of all time, and helps, and hope as procured and given by him: When you think of <hi>ſin,</hi> and <hi>in<g ref="char:EOLhyphen"/>firmity,</hi> and <hi>temptations,</hi> think alſo of his ſufficient pardoning, juſtifying and victorious <hi>grace.</hi> When you think of the world, the fleſh and the Devil, think how <hi>he overcometh</hi> them. Let his <hi>doctrine</hi> and the <hi>pattern</hi> of his moſt <hi>perfect life,</hi> be alwayes before you as your <hi>Rule.</hi> In all your doubts, and fears, and wants, go <hi>to Him</hi> in the <hi>Spirit</hi> and to the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> by <hi>Him,</hi> and <hi>Him alone.</hi> Take him as the root of your <hi>life</hi> and <hi>mercies,</hi> and <hi>Live</hi> as <hi>upon him</hi> and <hi>by his life.</hi> And when you <hi>die,</hi> reſign your <hi>ſouls to Him,</hi> that they may <hi>be with Him where he is, and ſee his Glory</hi> To <hi>live on Chriſt,</hi> and <hi>uſe Him</hi> in <hi>every want</hi> and addreſs to God, is more then a <hi>General conſufed believing</hi> in him.</p>
+            <p n="3">III. <hi>So Believe in the Holy Ghoſt, as to Live and work by Him, as the Body doth by the ſoul.</hi> You are not <hi>Baptiſed</hi> into his name in Vain:<note place="margin">
+                  <hi>Gal.</hi> 5.16.25. <hi>Matth.</hi> 28.19 <hi>Iohn</hi> 16.13. <hi>Heb.</hi> 2 3, 4. 1 <hi>Cor.</hi> 12.12, 13. <hi>Rom.</hi> 8.9.13. <hi>Iohn</hi> 3.5, 6.</note> (But too few underſtand the ſenſe and reaſon of it.) The <hi>Spirit</hi> is ſent by Chriſt for two great works: 1. To the <hi>Apoſtles</hi> (and <hi>Prophets</hi>) to <hi>inſpire them infallibly</hi> to preach the Goſpel, and confirm it by miracles, and leave it on record, for following ages in the <hi>Holy Scriptures:</hi> 2. To <hi>all his members,</hi> to <hi>illuminate</hi> and <hi>ſanctifie them,</hi> to <hi>believe</hi> and <hi>obey</hi> this Sacred Doctrine (beſide his <hi>common guift</hi> to many to <hi>underſtand</hi> and <hi>preach</hi> it.) The Spirit having firſt <hi>indited the Goſpel,</hi> doth <hi>by it,</hi> firſt Regenerate, and after Govern all
+<pb n="4" facs="tcp:59499:4"/>true Believers. He is not now given us; for the revealing of new doctrines, but to underſtand and obey the doctrine revealed and ſealed by him long ago.<note place="margin">2 <hi>Tim.</hi> 3.15, 16. <hi>Iude</hi> 19, 20. <hi>Ezech.</hi> 36.27. <hi>Iſa.</hi> 44.3. <hi>Rom.</hi> 8.1.5. 1 <hi>Cor.</hi> 6.11. <hi>Zech.</hi> 14.20.</note> As the Sun doth by its ſweet and ſecret influ<g ref="char:EOLhyphen"/>ence, both give and cheriſh the natural life of things Senſitive and Vegetative; ſo doth Chriſt by h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Spirit our ſpiritual life. As you do no work but by your natural life, you ſhould do none but by your ſpiritual life: you muſt not only Believe and Love and pray by it; but manage all your Cal<g ref="char:EOLhyphen"/>lings by it: For <hi>Holineſs to the Lord</hi> muſt be written upon all: All things are ſanctified to you, becauſe you being ſanctified to God, devote all to Him, and uſe all for Him: and therefore muſt do all in the <hi>ſtrength</hi> and <hi>conduct</hi> of the Spirit.</p>
+            <p n="4">IV. <hi>Live wholly upon GOD, as All in All: As the firſt Efficient, principal Dirigent,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 11.36. 1 <hi>Cor.</hi> 10.31. 2 <hi>Cor.</hi> 5 7, 8. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Iohn</hi> 3.1. <hi>Rom.</hi> 5.1, 2, 3. <hi>Matth.</hi> 22.37. <hi>Epheſ.</hi> 1.6. 2 <hi>Cor.</hi> 5.19. <hi>Gal.</hi> 4.4, 5, 6.</note> 
+               <hi>and Final Cauſe of all things.</hi> Let <hi>Faith, Hope</hi> and <hi>Love</hi> be daily feeding on Him. Let <hi>[Our Father which art in Heaven]</hi> be firſt inſcribed on your hearts, that he may ſeem moſt amiable to you, and you may bold<g ref="char:EOLhyphen"/>ly Truſt him, and filial Love may be the ſpring of duty. Make uſe of the <hi>Son</hi> and <hi>Spirit</hi> to lead you to the <hi>Father;</hi> and of <hi>Faith in Chriſt</hi> to kindle and keep alive the <hi>Love of God. The Love of God</hi> is our <hi>Primitive Holineſs,</hi> and ſpecially called, with its fruits <hi>[Our Sanctification,]</hi> which <hi>Faith in Chriſt is</hi> but a <hi>Means to.</hi> Let it be your principal end in <hi>ſtudying Chriſt,</hi> to ſee the Goodneſs Love and Amia<g ref="char:EOLhyphen"/>bleneſs of God in him: A <hi>condemning God</hi> is not ſo eaſily loved, as a Gracious Reconciled God. You have ſo much of the <hi>Spirit,</hi> as you have <hi>Love to God:</hi> This is the proper guift of the Spirit to all the Adopted Sons of God, to cauſe them with filial af<g ref="char:EOLhyphen"/>fection and dependance, to cry <hi>Abba Father.</hi> Know not, deſire not, love not any creature, but purely as ſubordinate to God! Without <hi>him,</hi> let it be <hi>Nothing</hi> to you; But as the Glaſs without the face; or ſcat<g ref="char:EOLhyphen"/>tered Letters without the ſenſe; or as the corpſe without the ſoul. Call nothing <hi>Proſperity</hi> or <hi>plea<g ref="char:EOLhyphen"/>ſure</hi> but his Love;<note place="margin">
+                  <hi>Pſalm</hi> 30.5.</note> and nothing <hi>adverſity</hi> or <hi>miſery,</hi>
+               <pb n="5" facs="tcp:59499:4"/>but his diſpleaſure, and the cauſe and fruits of it. When any thing would ſeem <hi>Lovely and deſireable</hi> which is <hi>againſt him</hi> call it <hi>Dung!</hi>
+               <note place="margin">
+                  <hi>Pſalm</hi> 63.3. <hi>Phil.</hi> 3.7, 8. <hi>Matth.</hi> 16.23. 2 <hi>Theſſ.</hi> 3.5. 2 <hi>Cor.</hi> 13.14.</note> And hear that man as Sa<g ref="char:EOLhyphen"/>tan or the Serpent, that would entiſe you from Him: &amp; count him but Vanity, a Worm, and duſt, that would <hi>affright</hi> you from your <hi>duty</hi> to <hi>Him. Fear</hi> him much, but <hi>Love him</hi> more! Let <hi>Love</hi> be the ſoul and <hi>End</hi> of every other duty: It is the end and Reaſon of all the reſt: but it hath no <hi>End</hi> or <hi>Reaſon,</hi> but its <hi>Ob<g ref="char:EOLhyphen"/>ject.</hi> Think of no other <hi>Heaven,</hi> and <hi>End,</hi> and <hi>Hap<g ref="char:EOLhyphen"/>pineſs</hi> of man, but LOVE the final act, and GOD the final object: Place not your Religion in any thing but the <hi>Love</hi> of <hi>God</hi> with its <hi>means</hi> and <hi>fruits. Own</hi> no <hi>grief, deſire,</hi> or <hi>joy,</hi> but a <hi>Mourning,</hi> a <hi>Seek<g ref="char:EOLhyphen"/>ing,</hi> and a <hi>Rejoicing Love.</hi>
+            </p>
+            <p n="5">V. <hi>Live in the Belief, and Hopes of Heaven, and ſeek it as your part and end; and daily Delight your ſouls in the forethoughts,</hi>
+               <note place="margin">
+                  <hi>Col.</hi> 3.1, 2, 4. <hi>Mat.</hi> 6.19, 20, 1.33. 2 <hi>Cor.</hi> 4.17, 18. <hi>&amp;</hi> 5.7. <hi>Luke</hi> 12.20. <hi>Heb.</hi> 6.20. 1 <hi>Cor.</hi> 15.28. <hi>Epheſ.</hi> 4.6. <hi>&amp;</hi> 1.23. <hi>Phil.</hi> 3.18.20. <hi>Pſ.</hi> 73.25, 26. <hi>Iohn</hi> 18.36.</note> 
+               <hi>of the endleſs ſight and Love of God.</hi> As <hi>God</hi> is ſeen on earth but as in a glaſs, ſo is he proportionably enjoyed. But when <hi>mourning, ſeeking Love</hi> hath done, and <hi>ſin</hi> and <hi>enemies</hi> are over<g ref="char:EOLhyphen"/>come, and we <hi>behold</hi> the <hi>Glory</hi> of <hi>God</hi> in <hi>Heaven,</hi> the <hi>Delights</hi> of <hi>Love</hi> will then be perfect. You may <hi>deſire</hi> more on <hi>Earth,</hi> than you may <hi>Hope</hi> for. Look not for a Kingdom of this world, nor for Mount <hi>Zion</hi> in the wilderneſs. Chriſt Reigneth on <hi>Earth,</hi> as <hi>Moſes</hi> in the <hi>Camp,</hi> to guide us to the Land of Promiſe: Our perfect bleſſedneſs will be, where the Kingdome is delivered up to the Father, and God <hi>is All in All.</hi> A doubt, or a ſtrange heartleſs thought of Heaven, is Water caſt on the Sacred fire, to quench your <hi>Ho<g ref="char:EOLhyphen"/>lineſs</hi> and your <hi>Joy.</hi> Can you travel one whole day to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch an End; and never think of the place that you are going to? which muſt be <hi>intended</hi> in every righteous act (either notedly, or by the ready un<g ref="char:EOLhyphen"/>obſerved act of a potent habit.) When <hi>Earth</hi> is at the beſt, it will not be Heaven. You live no further by <hi>Faith</hi> like Chriſtians, then you either live <hi>for Hea<g ref="char:EOLhyphen"/>ven</hi> in <hi>ſeeking</hi> it, or elſe <hi>upon Heaven</hi> in <hi>Hope</hi> and <hi>Ioy.</hi>
+            </p>
+            <p n="6">VI. <hi>Labour to make Religion your pleaſure and de<g ref="char:EOLhyphen"/>light.</hi>
+               <pb n="6" facs="tcp:59499:5"/>Look oft to God, to Heaven, to Chriſt, to the Spirit, to the Promiſes, to all your mercies; call over your experiences,<note place="margin">
+                  <hi>Pſalm</hi> 1.2, 3. <hi>&amp;</hi> 84.2.10. <hi>&amp;</hi> 63.3.5. <hi>&amp;</hi> 37.4. <hi>&amp;</hi> 94.19. <hi>&amp;</hi> 119.47.70. <hi>Iſa.</hi> 58.14. <hi>Pſalm</hi> 112.1. <hi>Romans</hi> 14.17. <hi>&amp;</hi> 5.1, 3, 5. 1 <hi>Pet.</hi> 1.8. <hi>Mat.</hi> 5.11, 12. <hi>Pſalm</hi> 32.11.</note> and think what matter of high De<g ref="char:EOLhyphen"/>light is ſtill before you: And how unſeemly it is, and how injurious to your profeſſion, for one that ſaith he Hopeth for Heaven, to live as ſadly, as thoſe that have no higher Hopes than Earth? How ſhould that man be filled with joy, who muſt live in the joys of Heaven for ever? Eſpecially rejoyce when the meſ<g ref="char:EOLhyphen"/>ſengers of Death, do tell you that your Endleſs Joy is neer. If <hi>God</hi> and <hi>Heaven,</hi> with all our mercies in the way, be not Reaſon enough for a joyful life, there can be none at all. Abhor all ſuggeſtions which would make Religion ſeem a tedious inkſome life. And take heed that you repreſent it not ſo to others: For you will never make them in Love with that, which you make them not perceive to be delectable and lovely. Not as the Hypocrite, by forcing and framing his Religion to his Carnal mind and pleaſure; but bringing up the <hi>heart</hi> to a holy <hi>ſuitableneſs,</hi> to the pleaſures of Religion.</p>
+            <p n="7">VII. <hi>Watch as for your ſouls, againſt this flattering tempting world;</hi>
+               <note place="margin">
+                  <hi>Gal.</hi> 6.14. 1 <hi>Ioh</hi> 2.15, 16. <hi>Iames</hi> 1.27. <hi>&amp;</hi> 4.4, 5. 1 <hi>Iohn</hi> 5.4, 5. <hi>Rom.</hi> 12.2. <hi>Gal.</hi> 1.4. <hi>Titus</hi> 2.12. <hi>Mat.</hi> 19.24. <hi>Luk.</hi> 12.16.21. <hi>&amp;</hi> 16.25. <hi>Iames</hi> 1.11. <hi>&amp;</hi> 5.1.2.4. <hi>Luke</hi> 8.14. <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 11.26.</note> 
+               <hi>especially when it is repreſented as more ſweet and delectable, than God, and Holineſs, and Hea<g ref="char:EOLhyphen"/>ven.</hi> This world with its Pleaſure, Wealth, and Ho<g ref="char:EOLhyphen"/>nours, is it that is put in the ballance by Satan, againſt God and Holineſs and Heaven: And no man ſhall have better than he chooſeth and preferreth. The bait taketh advantage of the brutiſh part, when Rea<g ref="char:EOLhyphen"/>ſon is aſleep; and if by the help of ſenſe it get the Throne, the Beaſt w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ride and rule the Man; and Reaſon become a ſlave to Senſuality. When you hear the Serpent, ſee his ſting: and ſee Death attending the forb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dden fruit. When you are Riſing, look down and ſee how far you have to fall! His <hi>Reaſon</hi> as well as <hi>faith</hi> is weak, who for ſuch <hi>fool-gawds,</hi> as the pomp and vanities of this world, can forget God and his ſoul, and death and judgement, Heaven and Hell, yea and deliberately command them to ſtand by. What <hi>K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> or <hi>Experience</hi> can do good on that man, who will venture ſo much for ſuch a world, which all that have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yed it call <hi>Vanity</hi> at the laſt? How deplo<g ref="char:EOLhyphen"/>rate
+<pb n="7" facs="tcp:59499:5"/>then is a worldlings caſe? O <hi>fear</hi> the world, when it ſmileth, or ſeems ſweet and amiable. Love it not, if you Love your God and your ſalvation.</p>
+            <p n="8">VIII. <hi>Fly from temptations,</hi> and <hi>crucifie the fleſh,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8.1.13. <hi>Gal.</hi> 5.24. <hi>Rom.</hi> 13.14. <hi>Gal.</hi> 5.17. <hi>Iude</hi> 8.23. 2 <hi>Pet.</hi> 2.10: <hi>Eph.</hi> 2.3. 1 <hi>Pet.</hi> 2.11. <hi>Mat.</hi> 6.13. <hi>&amp;</hi> 26.41. <hi>Luke</hi> 8.13.</note> and <hi>keep a conſtant Government over your appetite and ſenſes.</hi> Many who had no deſigned ſtated vice, of worldly intereſt, have ſhamfully fallen by the ſudden ſurprize, of <hi>appetite</hi> or <hi>luſt.</hi> When cuſtome hath taught theſe to be <hi>greedy</hi> and <hi>violent,</hi> like a hungry Dog, or a luſting Bore, it is not a fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ggiſh wiſh or purpoſe, that will mortifie or rule them! How dan<g ref="char:EOLhyphen"/>gerous a caſe is that man in, who hath ſo greedy a Beaſt continually to reſtrain? that if he do but neg<g ref="char:EOLhyphen"/>lect his watch one hour, is ready to run him head<g ref="char:EOLhyphen"/>long into hell? Who can be ſafe, that ſtandeth long, on ſo terrible a precipice? The tears and ſor<g ref="char:EOLhyphen"/>rows of many years, may perhaps not repair the loſs which one hour or act may bring. The caſe of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> and many another, are dreadful warnings. Know what it is that you are moſt in danger of; whether <hi>luſt,</hi> or <hi>idleneſs,</hi> or exceſs in meat, or drinks, or play; and there ſet the ſtrongeſt watch for your preſervati<g ref="char:EOLhyphen"/>on. Make it your daily buſineſs to mortifie <hi>that luſt;</hi> and ſcorn that your brutiſh ſenſe or appetite, ſhould conquer reaſon. Yet truſt not purpoſes alone; but away from the temptation; Touch not, yea look not on the tempting bait: Keep far enough off, if you deſire to be ſafe. What miſeries come from ſmall be<g ref="char:EOLhyphen"/>ginnings! Temptation leads to ſin, and ſmall ſins to greater, and thoſe to Hell! And ſin and Hell are not to be played with. Open your ſin or temptation to ſome friend, that ſhame may ſave you from the danger.</p>
+            <p n="9">IX. <hi>Keep up a conſtant skilfull Government,</hi>
+               <note place="margin">
+                  <hi>Iames</hi> 1.19. <hi>Iam</hi> 3.13.17. 1 <hi>Pet.</hi> 3.4. <hi>Mat</hi> 5.5. <hi>Epheſ.</hi> 4.2, 3. <hi>Col.</hi> 3.12. <hi>Iames</hi> 1.26. <hi>&amp;</hi> 3.5, 6.</note> 
+               <hi>over your Paſſions and your Tongues.</hi> To this end, keep a <hi>lender Conſcience,</hi> which will ſmart when in any of theſe you <hi>ſin.</hi> Let <hi>Holy Paſſions</hi> be well <hi>ordered:</hi> and <hi>ſelfiſh carnal paſſions</hi> be <hi>reſtrained.</hi> Let your <hi>Tongues</hi> know their <hi>duties</hi> to God and man, and labour to be <hi>skilful</hi> and <hi>reſolute</hi> in performing them. Know all the <hi>ſins of the Tongue,</hi> that you may avoid them; for your
+<pb n="8" facs="tcp:59499:6"/>innocency and peace do much depend on the prudent Government of your Tongues.<note place="margin">
+                  <hi>Pſalm</hi> 34.13. <hi>Prov.</hi> 18.21.</note>
+            </p>
+            <p n="10">X. <hi>Govern your Thoughts with conſtant skilful dili<g ref="char:EOLhyphen"/>gence.</hi> In this,<note place="margin">
+                  <hi>Deut.</hi> 15.9. 2 <hi>Cor.</hi> 10.5. <hi>Gen</hi> 6.5. <hi>Pſalm</hi> 10.4. <hi>Pſalm</hi> 94.19. <hi>Pſal.</hi> 119.113. <hi>Prov</hi> 12.5. <hi>&amp;</hi> 15.26.</note> right <hi>Hab<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts</hi> and <hi>Affections</hi> will do moſt by <hi>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clining</hi> them unto Good. Its <hi>eaſie,</hi> to Think on that which we <hi>Love.</hi> Be not unfurniſhed of <hi>matter</hi> for your Thoughts to work upon! And often <hi>retire</hi> your ſelves for ſerious <hi>meditation:</hi> Be not ſo ſolitary and deep in muſings, as to <hi>over-ſtretch</hi> your thoughts, and <hi>confound</hi> your minds, or t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke you off from neceſ<g ref="char:EOLhyphen"/>ſary converſe <hi>with others:</hi> But be ſure that you be <hi>Conſid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rate,</hi> and dwell much <hi>at home,</hi> and converſe moſt with your <hi>conſciences</hi> and <hi>your God!</hi> with whom you have the <hi>greateſt</hi> buſineſs Leave not your thoughts <hi>unimployed,</hi> or <hi>ungoverned:</hi> ſcatter them not abroad upon impertinent vanities: O that you knew what daily buſineſs you have for them!<note place="margin">
+                  <hi>Pſal.</hi> 119 59. <hi>Prov.</hi> 30.32. <hi>Ier</hi> 4.14. <hi>Deut.</hi> 32.19.</note> Moſt men are wick<g ref="char:EOLhyphen"/>ed, deceived and undone, becauſe they are inconſide<g ref="char:EOLhyphen"/>rate! and dare not or will not retiredly, and ſoberly uſe their Reaſon; or uſe it but as a ſlave in chains, in the ſervice of their paſſion, luſt and in<g ref="char:EOLhyphen"/>tereſts. He was never <hi>wiſe,</hi> or <hi>good,</hi> or <hi>happy,</hi> who was not <hi>ſoberly</hi> and <hi>impartially conſiderate.</hi> How to <hi>be good,</hi> to <hi>do good,</hi> and finally <hi>enjoy good,</hi> muſt be the ſumm of all your Thoughts. Keep them firſt <hi>Holy,</hi> then <hi>charitable, clean</hi> and <hi>chaſte.</hi> And quickly check them when they look towards ſin.</p>
+            <p n="11">XI. <hi>Let Time be exceeding pretious in your eyes, and carefully and diligently Redeem it.</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 5.16. <hi>Ioh</hi> 14 1, 2. <hi>Acts</hi> 17.21. 1 <hi>Cor.</hi> 7.29. 2 <hi>Cor.</hi> 6.2. <hi>Iohn</hi> 9.4. <hi>Luk.</hi> 19.42.44. <hi>Pſalm</hi> 39 4. <hi>Mat.</hi> 25.10.12.</note> What haſte doth it make! and how quickly will it be gone? and then how highly will it be valued, when a minute of it can never be recalled. O what important buſineſs have we, for every moment of our Time, if we ſhould live a thouſand years! Take not that man to be well in his wits, or to know his God, his End, his work, or his danger, who hath time to ſpare. Redeem it, not only from <hi>needleſs sports,</hi> and <hi>playes,</hi> and <hi>idleneſs,</hi> and <hi>curi<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> and <hi>complement,</hi> and <hi>exceſs of ſleep,</hi> and <hi>chatt,</hi> and <hi>worldlineſs;</hi> but alſo from the entanglement of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> good,</hi> which would hinder you from greater. Spend
+<pb n="9" facs="tcp:59499:6"/>Time as men that are ready to paſs into another world; where every minute muſt be accounted for; and it muſt go with us for ever as we lived here. Let not Health deceive you, into the expectation of living long, and ſo into a ſenſleſs negligence: See your glaſs running, and keep a reckoning of the expenſe of Time: and ſpend it juſt as you would review it when it is gone.</p>
+            <p n="12">XII. <hi>Let the Love of all in their ſeveral capacities, become as it were your very Nature:</hi>
+               <note place="margin">1 <hi>Tim.</hi> 1.5, 6. <hi>Mat.</hi> 19.19. <hi>Rom.</hi> 13.10. 1 <hi>Iohn</hi> 4.16. <hi>Epheſ.</hi> 4.2.15, 16. <hi>Col.</hi> 2.2. <hi>&amp;</hi> 1.4. 1 <hi>Tim.</hi> 6.11. <hi>Iames</hi> 3.17. <hi>Phil.</hi> 2.1, 2. 1 <hi>Theſſ.</hi> 4.9. <hi>Iohn</hi> 13.35. <hi>Mat.</hi> 5.44, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5. 1 <hi>Cor.</hi> 13. <hi>Iames</hi> 4.11. <hi>Gal.</hi> 6 10. <hi>Titus</hi> 2.14. <hi>Phil.</hi> 2.20, 21. <hi>Rom.</hi> 15.1.3.</note> 
+               <hi>and doing them all the good you can be very much of the buſineſs of your lives. God</hi> muſt be loved in all his creatures: His <hi>na<g ref="char:EOLhyphen"/>tural Image</hi> on <hi>all men;</hi> and his <hi>ſpiritual Image</hi> on <hi>his Saints.</hi> Our Neighbour muſt be <hi>Loved</hi> as <hi>Our ſelves:</hi> that is, our <hi>natural neighbour</hi> as our <hi>natural ſelf,</hi> with a <hi>Love of Benevolence;</hi> and our <hi>ſpiritual neighbour</hi> as our <hi>ſpiritual ſelf,</hi> with a <hi>Love of Complacence.</hi> In op<g ref="char:EOLhyphen"/>poſition to <hi>complacence,</hi> we may <hi>hate</hi> our ſinful <hi>neigh<g ref="char:EOLhyphen"/>bour,</hi> as we muſt <hi>our ſelves</hi> (much more:) But in oppoſition to <hi>Benevolence</hi> we muſt neither hate <hi>our ſelves, our neighbour,</hi> or <hi>our enemy.</hi> O that men knew how much of Chriſtianity doth conſiſt in <hi>Love,</hi> and <hi>doing good?</hi> With what eyes do they read the Goſpel, who ſee not this in every page? Abhorr all that <hi>ſelfiſhneſs, pride,</hi> and <hi>paſſion</hi> which are the enemies of Love, and thoſe opinions, and factions, and cenſurings and backbitings, which would deſtroy it. Take him that ſpeaketh evil of another to you, without a juſt cauſe and call, to be Satans meſſenger, intreating you to hate your Brother, or to abate your Love. For to perſwade you, that a <hi>man is bad,</hi> is directly to per<g ref="char:EOLhyphen"/>ſwade you ſo far to hate him. Not that the <hi>good</hi> and <hi>bad</hi> muſt be confounded: but Love will call none <hi>Bad</hi> without <hi>conſtreining evidence.</hi> Rebake backbiters: <hi>Hurt</hi> no man, and <hi>ſpeak</hi> evil of no man; unleſs it be not only <hi>juſt,</hi> but <hi>neceſſary</hi> to ſome greater good. Love is lovely: They that Love ſhall be <hi>beloved. Hating</hi> and <hi>hurting</hi> makes men <hi>Hateful. Love thy neighbour as thy ſelf;</hi> and, <hi>Do as thou wouldſt be done by;</hi> are the golden Rules of our duty to men; which muſt be deeply written on your hearts. For want of this, there
+<pb n="10" facs="tcp:59499:7"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nothing ſo <hi>falſe,</hi> ſo <hi>bad,</hi> ſo <hi>cruel,</hi> which you may not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drawn to <hi>Think,</hi> or <hi>Say,</hi> or <hi>Do</hi> againſt your Bre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> SELFISHNES and WANT of LOVE, do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>turally tend to <hi>Ambition</hi> and <hi>Covetouſneſs,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <hi>cruelty</hi> againſt all that ſtand in the way of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>es, as the nature of a Wolf to kill the Lambs. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> and <hi>contentions,</hi> and <hi>perſecutions</hi> in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oceed from <hi>ſelfiſhneſs,</hi> and <hi>want of charity.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>malice</hi> is the <hi>Deviliſh</hi> nature. Be as zea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng good</hi> to all, as Satans ſervants are in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Take <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t as the uſe of all your talents, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would hear of it at laſt. Let it be yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>buſineſs,</hi> and not a matter on the <hi>by:</hi> Eſpecially fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>publick good,</hi> and <hi>mens ſalvation.</hi> And what you cannot do your ſelves, perſwade others to. Give them good Books; and draw them to the means, which are moſt like to profit them.</p>
+            <p n="13">XIII. <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand the right terms of Church-Com<g ref="char:EOLhyphen"/>munion: eſpecially the Unity of the Univerſal Church,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 12. <hi>Eph.</hi> 4.3.16. <hi>Col.</hi> 1.4. <hi>Heb.</hi> 10.25. <hi>Acts</hi> 2.41. <hi>&amp;</hi> 8.37.12, 13.</note> 
+               <hi>and the Univerſal Communion which you muſt hold with all the parts;</hi> and the <hi>difference between the Church as Viſible</hi> and <hi>Inviſible.</hi> For want of theſe, how woful are our diviſions? Read oft, 1 <hi>Cor.</hi> 12. <hi>&amp; Eph.</hi> 4.1. <hi>to</hi> 17. <hi>Iohn</hi> 17.21, 22, 23. <hi>Acts</hi> 4 32. <hi>&amp;</hi> 2.42. 1 <hi>Cor.</hi> 1.10, 11, 13. <hi>&amp;</hi> 3.3. <hi>Rom.</hi> 16.17. <hi>Phil.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 2, 3, 4. 1 <hi>Theſ.</hi> 5.12, 13. <hi>Acts</hi> 20 30. 1 <hi>Cor.</hi> 11.19. <hi>Titus</hi> 3 10. <hi>Iames</hi> 3. Study theſe well. You muſt have <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and <hi>Communion</hi> in <hi>Faith</hi> and <hi>Love,</hi> with all the Chriſtians in the world. And refuſe not <hi>local communion</hi> when you have a juſt call; ſo far as they put you not on ſinning. Let your <hi>uſual meeting</hi> be with the <hi>pureſt Church,</hi> if you law<g ref="char:EOLhyphen"/>fully may,<note place="margin">1 <hi>Cor.</hi> 1.2. <hi>&amp;</hi> 11.18 21. <hi>&amp;</hi> 3.3, 4. <hi>&amp;</hi> 1.12, 13.</note> (and ſtill reſpect the <hi>publick good.</hi>) But <hi>ſometimes occaſionally</hi> communicate even with <hi>defective faulty</hi> Churches, ſo be it they are true Chriſtians, and put you not on ſin: that ſo you may ſhew, that you own them as Chriſtians, though you diſown their cor<g ref="char:EOLhyphen"/>ruptions. Think not your preſence maketh all the faults of Miniſtry, Worſhip, or people to be yours (for then I would joyn with no Church in the world.) Know that as the myſtical Church conſiſteth of <hi>Heart-Covenan<g ref="char:EOLhyphen"/>ters,</hi> ſo doth the Church as Viſible conſiſt of <hi>Verbal-Covenanters,</hi>
+               <pb n="11" facs="tcp:59499:7"/>which make a <hi>credible profeſſion</hi> of <hi>Conſent:</hi> And that Nature and Scripture teacheth us to take every mans word as <hi>credible,</hi> till perfidiouſneſs forfeit his <hi>Credit;</hi> which forfeiture muſt be proved, before any <hi>ſober Profeſſion</hi> can be taken, for an inſufficient title. Grudge not then at the Communion of any <hi>Profeſſed Chriſtian</hi> in the Church Viſible (Though we muſt do our part to caſt out the obſtinately impenitent by Diſcipline; <note place="margin">
+                  <hi>Mat.</hi> 13.41.</note> which if we cannot do, the fault is not ours.) The preſence of hypocrites is no hurt, but oft a <hi>mercy</hi> to the ſincere. How ſmall elſe would the Church ſeem in the world?<note place="margin">
+                  <hi>Iohn</hi> 16.2. 1 <hi>Cor.</hi> 1.10. <hi>Rom.</hi> 16.17. <hi>Iames</hi> 3.14, 15, 16, 17, 18.</note> 
+               <hi>Outward priviledges</hi> be<g ref="char:EOLhyphen"/>long to <hi>outward Covenanters:</hi> and <hi>inward mercies</hi> to the <hi>ſincere. Diviſion</hi> is <hi>wounding,</hi> and tends to <hi>death.</hi> Abhor it as you love the Churches welfare or your own: The wiſdom from above is, firſt <hi>pure,</hi> and then <hi>peaceable.</hi> Never ſeperate what God conjoin<g ref="char:EOLhyphen"/>eth. It is the <hi>Earthly, ſenſual, deviliſh wiſdom,</hi> which cauſeth <hi>bitter envying, and ſtrife, and confuſion and every evil work.</hi> Bleſſed are the Peace-makers.<note place="margin">1 <hi>Tim.</hi> 3.6. <hi>Col.</hi> 2.18. 1 <hi>Cor.</hi> 8.1. 1 <hi>Cor.</hi> 4.6. 1 <hi>Tim.</hi> 6.4. 1 <hi>Pet.</hi> 5.5. <hi>Iames</hi> 3.1.17.</note>
+            </p>
+            <p n="14">XIV. <hi>Take heed of Pride and Self-conceitedneſs in Religion:</hi> If once you overvalue your own underſtand<g ref="char:EOLhyphen"/>ings, your crude conceptions, and groſs miſtakes, will delight you as ſome ſupernal light: and inſtead of having compaſſion on the weak, you will be unruly and deſpiſers of your Guides, and cenſorious contem<g ref="char:EOLhyphen"/>ners of all that differ from you; and <hi>perſecutors</hi> of them if you have power; and will think all intolle<g ref="char:EOLhyphen"/>rable, that take you not as Oracles, and your words as Law. Forget not that the Church hath alwayes ſuffe<g ref="char:EOLhyphen"/>red by cenſorious, unruly profeſſors on the one hand, (and O what diviſions and ſcandals have they cauſed!) as well as by the prophane and perſecutors on the other. Take heed of both: And when contentions are afoot, be quiet and ſilent, and not too forward; and keep up a <hi>zeal</hi> for <hi>Love</hi> and <hi>Peace.</hi>
+               <note place="margin">
+                  <hi>Eph.</hi> 5. <hi>&amp;</hi> 6. <hi>Col.</hi> 3. <hi>&amp;</hi> 4. <hi>Rom.</hi> 13.1.7. 1 <hi>Pet.</hi> 2.13.15.</note>
+            </p>
+            <p n="15">XV. <hi>Be faithfull and conſcionable in all your Relati<g ref="char:EOLhyphen"/>ons.</hi> Honour and obey your Parents, and other ſupe<g ref="char:EOLhyphen"/>riors: Deſpiſe not, and reſiſt not Government: If you ſuffer unjuſtly by them, be humbled for thoſe ſins,
+<pb n="12" facs="tcp:59499:8"/>which cauſe God to turn your <hi>Protectors</hi> into <hi>Afflicters:</hi> and inſtead of murmuring and rebelling againſt them, reform your ſelves, and then commit your ſelves to God. Princes and Paſtors I will not ſpeak to: Sub<g ref="char:EOLhyphen"/>jects, and ſervants, and children, muſt obey their ſupe<g ref="char:EOLhyphen"/>riors as the Officers of God.</p>
+            <p n="16">XVI. <hi>Keep up the Government of God in your fami<g ref="char:EOLhyphen"/>lies:</hi>
+               <note place="margin">
+                  <hi>Command.</hi> 4. <hi>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ.</hi> 24.15. <hi>Deut.</hi> 6.6, 7, 8. <hi>Daniel</hi> 6.</note> 
+               <hi>Holy Famil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> muſt be chief preſervers of the in<g ref="char:EOLhyphen"/>tereſt of Religion in the world. Let not the world turn Gods ſervice into a cuſtomary lifeleſs form. Read the Scripture, and edifying Books to them: Talk with them ſerio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly about the ſtate of their ſouls, and everlaſting life: Pray with them fervently: Watch over them diligently: Be angry againſt ſin, and meek in your own cauſe! Be examples of <hi>Wiſdome, Holineſs</hi> and <hi>Patience:</hi> And ſee that the Lords Day be ſpent in holy preparation for Eternity.</p>
+            <p n="17">XVII. <hi>Let your Calling be managed in Holineſs and Laboriouſneſs.</hi>
+               <note place="margin">
+                  <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 13.5. <hi>Command.</hi> 4. 2 <hi>Theſſ.</hi> 3.10.12. 1 <hi>Theſſ.</hi> 4.7. 1 <hi>Tim.</hi> 5.13. <hi>Proverbs</hi> 31. 1 <hi>Cor.</hi> 7.29.</note> Live not in idleneſs: Be not <hi>ſloth<g ref="char:EOLhyphen"/>ful</hi> in your work; whether you be bound, or free: In the ſwear of your browes you muſt eat your bread, and labour the ſix dayes, that you may have to give to him that needeth! ſlothfulneſs is ſenſuality as well as filthier ſins. The body (that is able) muſt have fit employment as well as the ſoul; or elſe body and ſoul will fare the worſe. But let all be but as the la<g ref="char:EOLhyphen"/>bour of a Traveller, and aim at God and Heaven in all.</p>
+            <p n="18">XVIII. <hi>Deprive not your ſelves of the benefit of an able faithful Paſtor,</hi>
+               <note place="margin">
+                  <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 2.7. <hi>Eccleſ.</hi> 4.10, 11. <hi>Prov.</hi> 12.1. <hi>&amp;</hi> 15.5.10.31. <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 3.13.</note> 
+               <hi>to whom you may open your caſe in ſecret: or at leaſt of a holy faithful friend: And be not diſpleaſed at their free reproofs.</hi> Wo to him that is alone! How blind and partial are we in our own cauſe! And how hard is it to know our ſelves without an able faithful helper? You forfeit this great mercy, when yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> love a flatterer, and angr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly defend your ſin.</p>
+            <p n="19">XIX. <hi>Prepare for ſickneſs, ſufferings, and death:</hi> Overval<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not proſperity,<note place="margin">
+                  <hi>Luke</hi> 12.40. 2 <hi>Pet.</hi> 1.10.</note> nor the favour of man! If <hi>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lfiſh men</hi> p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove <hi>falſe</hi> and <hi>cru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> to you, even thoſe of
+<pb n="13" facs="tcp:59499:8"/>whom you have deſerved beſt, marvel not at it; but pray for your <hi>enemies, perſecutors</hi> and <hi>ſlanderers,</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 1.21, 23. <hi>Ierem.</hi> 9 4, 5. <hi>Mat.</hi> 7.4, 5. 2 <hi>Cor.</hi> 5.1, 2, 4, 8.</note> that God would turn their hearts and pardon them. What a mercy is it to be driven from the world to God? When the Love of the world is the greateſt danger of the ſoul? Be ready to die, and you are ready for any thing: Ask your hearts ſeriouſly, what is it that I ſhall need at a dying hour? and let it ſpeedily be got rea<g ref="char:EOLhyphen"/>dy, and not be to ſeek in the time of your extremity.</p>
+            <p n="20">XX. <hi>Underſtand the true method of Peace of Conſci<g ref="char:EOLhyphen"/>ence,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 34.6. <hi>Heb.</hi> 7.25. <hi>Iohn</hi> 4.41. <hi>Iohn</hi> 3.16. 1 <hi>Tim.</hi> 4.10. <hi>&amp;</hi> 2.4. <hi>Matth.</hi> 28.19, 20. <hi>Rev.</hi> 22.17. <hi>Iſaiah</hi> 55.6, 7.</note> 
+               <hi>and judge not of the ſtate of your ſouls upon deceit<g ref="char:EOLhyphen"/>ful grounds:</hi> As <hi>preſumptuous hopes</hi> do keep men from Converſion, and embolden them in ſin; ſo <hi>cauſleſs fears</hi> do hinder our Love and praiſe of God, by obſcu<g ref="char:EOLhyphen"/>ring his Lovelineſs; And they deſtroy our <hi>Thankful<g ref="char:EOLhyphen"/>neſs,</hi> and our Delight in God, and make us a burden to our ſelves, and a grievous ſtumbling block to others: The <hi>General grounds</hi> of all your comfort, are 1. The Gracious Nature of God: 2. The ſufficiency of Chriſt, and 3. The Truth and Univerſality of the Promiſe, which giveth <hi>Chriſt</hi> and <hi>Life</hi> to All if they will Accept him: But this <hi>Acceptance</hi> is the proof of your particular title; without which theſe do but ag<g ref="char:EOLhyphen"/>gravate your ſin. <hi>Conſent</hi> to Gods Covenant is the true Condition and proof of your title to God as your Father, Saviour and Sanctifier, and ſo to the ſaving bleſſings of the Covenant: which <hi>Conſent,</hi> if you <hi>ſur<g ref="char:EOLhyphen"/>vive,</hi> muſt produce the <hi>duties</hi> which you conſent to. He that Heartily conſenteth,<note place="margin">
+                  <hi>Luke</hi> 14.26.33. 1 <hi>Iohn</hi> 2.15. <hi>Mat.</hi> 6.19, 20, 21.33. <hi>Coloſſ.</hi> 3.1.4. <hi>Rom.</hi> 1.8.13.</note> that God be his God, his Sa<g ref="char:EOLhyphen"/>viour and Sanctifier, is in a ſtate of life. But this in<g ref="char:EOLhyphen"/>cludeth the rejection of the <hi>world. Much knowledge,</hi> and <hi>memory, and utterance,</hi> and <hi>lively Affections,</hi> are all very deſirable! But you muſt judge your ſtate by none of theſe; for they are all uncertain: But 1. If <hi>God</hi> and <hi>Holineſs</hi> and <hi>Heaven</hi> have the higheſt <hi>eſtimati<g ref="char:EOLhyphen"/>on</hi> of your practical judgement, as being eſteemed <hi>Beſt for you;</hi> 2. And be preferred in the <hi>Choice</hi> and <hi>Re<g ref="char:EOLhyphen"/>ſolution</hi> of your <hi>Wills,</hi> and that <hi>Habitually,</hi> before all the <hi>pleaſures</hi> of the world: 3. And be <hi>firſt and chiefly ſought</hi> in your <hi>endeavours;</hi> this is the infallible proof of your ſanctification.</p>
+            <p>
+               <pb n="14" facs="tcp:59499:9"/>
+Chriſtian, upon long and ſerious ſtudy and experi<g ref="char:EOLhyphen"/>ence, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dare boldly commend theſe Directions to thee, as the way of God, which will end in Bleſſedneſs. The Lord <hi>Reſolve</hi> and <hi>Strengthen</hi> thee to obey them.</p>
+            <p>This is the true Conſtitution of Chriſtianity: This is true Godlineſs; and this is to be Religious indeed! And all this is no more than to be ſeriouſly ſuch as all among us in general words, profeſs to be. This is the Religion which muſt difference you from Hypocrites; which muſt ſettle you in peace, and make you an ho<g ref="char:EOLhyphen"/>nour to your profeſſion, and a bleſſing to thoſe that dwell about you! Happy is the Land the Church, the Family, which doth conſiſt of ſuch as theſe! Theſe are not they that either <hi>Perſecute</hi> or <hi>Divide</hi> the Church; or that make their Religion a ſervant to their Policy, to their Ambitious deſigns, or fleſhly luſts; nor that make it the bellows of Sedition, or Rebellion, or of an envious hurtful zeal; or a ſnare for the innocent; or a Piſtoll to ſhoot at the upright in heart: Theſe are not they that have been the ſhame of their profeſſion, the hardening of ungodly men and Infidels, and that have cauſed the enemies of the Lord to blaſpheme. If any man will make a Religion of, or for his Luſts; of Papal tyranny, or Phariſaical formality, or of his pri<g ref="char:EOLhyphen"/>vate opinions, or of proud cenſoriouſneſs, and contempt of others, and of faction and unwarrantable ſeparations and diviſions, and of ſtanding at a more obſervable diſtance from common profeſſors of Chriſtianity, than God would have them; or yet of pulling up the hedge of Diſcipline, and laying Chriſts Vineyard common to the Wilderneſs; the ſtorm is coming, when this Re<g ref="char:EOLhyphen"/>ligion founded on the ſand will fall, and great will be the fall thereof: When the Religion which conſiſteth in <hi>Faith,</hi> and <hi>Love</hi> to <hi>God</hi> and <hi>Man,</hi> in <hi>mortifying</hi> the <hi>fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh,</hi> and <hi>crucifying</hi> the <hi>world,</hi> in <hi>Self-denyal, Humility,</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atience,</hi> in ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncere <hi>obed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence,</hi> and faithfulneſs in all <hi>Relations,</hi> in <hi>watchfull ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f-government,</hi> in <hi>doing good,</hi> and in a <hi>Divine and Heavenly life,</hi> though it will be hated by the ungodly world, ſhall never be a diſho<g ref="char:EOLhyphen"/>nour to your Lord, nor deceive or diſappoint your ſouls.</p>
+            <closer>
+               <date>
+                  <hi>May</hi> 10. 1665.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59499:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
